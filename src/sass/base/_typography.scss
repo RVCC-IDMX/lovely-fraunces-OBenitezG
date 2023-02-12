@@ -26,3 +26,15 @@ $display-font: $font;
 $display-weight: 900;
 $display-spacing: 0.15em;
 $display-title-size: 4rem;
+
+.header__title {
+    font-variation-settings: "opsz" 144, "SOFT" 76.1, "wght" 269, "WONK" 1;
+}
+
+.header__desc--first {
+    font-variation-settings: "opsz" 105, "SOFT" 100, "wght" 900, "WONK" 0.198;
+}
+
+p {
+    font-variation-settings: "opsz" 35, "SOFT" 100, "wght" 100, "WONK" 1;
+}
